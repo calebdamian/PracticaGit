@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 100px;
+}
+
+.blue{
+    background-color: blue;
+    height: 100px;
+}
+
+.red{
+    background-color: red;
+    height: 100px;
+}
